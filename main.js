@@ -11,4 +11,4 @@ function write() {
     }
 }
 
-setInterval(write, 300);
+setInterval(write, 150);
