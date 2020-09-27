@@ -6,12 +6,13 @@
 
 body{
     text-align:center;
-    font-size:3.5rem;
+    font-size:4rem;
     background-color:rebeccapurple; 
     display:flex;
     align-items:center;
     justify-content:center;
     margin:3.5rem;
+    padding:2rem;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
 }
