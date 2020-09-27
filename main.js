@@ -13,7 +13,7 @@ function write() {
 
 setInterval(write, 150);
 
-
+/*
 function createHeart() {
     const heart = document.createElement("div");
     heart.classList.add("heart");
@@ -33,3 +33,4 @@ function createHeart() {
 }
 
 setInterval(createHeart, 300);
+*/
