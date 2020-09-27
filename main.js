@@ -1,4 +1,4 @@
-const text = "Bonjour, Je m'appelle Samia, J'habite à Avignon, Je suis \"developpeuse\" web, Je travaille avec HTML, Css, Javascript, Je commence l'apprentissage du React, et le tout en autodidacte !... Contactez moi ;)";
+const text = "Bonjour, Je m'appelle Samia, J'habite à Avignon, Je suis \"developpeuse\" front-end, Je travaille avec HTML, Css, Javascript, Je commence l'apprentissage du React, et le tout en autodidacte !... Contactez moi ;)";
 
 let begin = 0;
 
